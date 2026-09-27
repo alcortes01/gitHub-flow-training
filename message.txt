@@ -3,7 +3,7 @@ Hello from the Git Flow training repository.
 This file demonstrates a simple change moving through:
 
 1. Create a branch
-2. Modify a file
+2. Modify file
 3. Open a pull request
 4. Review and approve the change
 5. Merge the pull request
