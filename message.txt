@@ -1,0 +1,4 @@
+Hello from the Git Flow training repository.
+
+This file demonstrates a simple change moving through:
+branch -> pull request -> review -> merge -> release.
