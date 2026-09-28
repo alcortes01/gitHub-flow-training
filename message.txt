@@ -2,6 +2,7 @@ Hello from the Git Flow training repository.
 
 This file demonstrates a simple change moving through:
 
+0. Update local repo from remote
 1. Create a branch
 2. Modify file
 3. Open a pull request
